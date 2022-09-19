@@ -12,5 +12,5 @@ I am a Software Engineer at [Clockwork Labs](https://clockworklabs.io/).
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=NateTheDev1&theme=dark&hide_border=true" width = 400>
 </p
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NateTheDev1&layout=compact&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NateTheDev1&layout=compact&theme=bear&hide=Makefile" width = 400>
 </p>
