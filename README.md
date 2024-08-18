@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NateTheDev1&label=Profile%20views&color=0e75b6&style=flat" alt="NateTheDev1" /> </p>
 
 ## Hi 👋 I am Nathaniel! 
-I am a Software Engineer at [Clockwork Labs](https://clockworklabs.io/). 
+I am a Software Engineer at [FLEX Dental Solutions](https://flexdental.co). 
 
 - 🌐 Visit my [porfolio website](https://nathanielrichards.dev) for complete background and contact.
 - 👋 My personal [blog](https://blog.nathanielrichards.dev)
